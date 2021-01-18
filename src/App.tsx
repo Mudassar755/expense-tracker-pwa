@@ -1,5 +1,5 @@
 import React,{useEffect} from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import firebase from './firebase';
 import { Header } from './components/Header';
 import { Balance } from './components/Balance';
