@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import { SingleTransaction } from './Transaction';
 
 import { GlobalContext } from '../context/GlobalState';
-import { Transection } from '../types/Types';
+// import { Transection } from '../types/Types';
 
 // type Props = {
 //   transactions: Transection[];
