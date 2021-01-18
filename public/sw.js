@@ -28,8 +28,7 @@ let cacheFiles = [
     "./favicon.ico",
     "./manifest.json",
     "index.html",
-    "/",
-    "https://fcm.googleapis.com/fcm/send"
+    "/"
 ];
 self.addEventListener("install", (e) => {
     self.skipWaiting();
