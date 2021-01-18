@@ -24,10 +24,12 @@ let cacheName = "website"
 let cacheFiles = [
     "./static/js/2.37a28cfc.chunk.js",
     "./static/js/main.fd13b631.chunk.js",
+    "./static/css/main.e57e4dff.chunk.css",
     "./favicon.ico",
     "./manifest.json",
     "index.html",
-    "/"
+    "/",
+    "https://fcm.googleapis.com/fcm/send"
 ];
 self.addEventListener("install", (e) => {
     self.skipWaiting();
