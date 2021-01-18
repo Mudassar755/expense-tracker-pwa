@@ -24,7 +24,6 @@ let cacheName = "website"
 let cacheFiles = [
     "./static/js/2.37a28cfc.chunk.js",
     "./static/js/main.fd13b631.chunk.js",
-    "./static/js/0.chunk.js",
     "./favicon.ico",
     "./manifest.json",
     "index.html",
