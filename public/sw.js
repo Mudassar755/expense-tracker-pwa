@@ -22,10 +22,11 @@ let cacheName = "website"
 
 //Cache Files
 let cacheFiles = [
-    "/static/js/bundle.js",
-    "/static/js/main.chunk.js",
-    "/static/js/0.chunk.js",
-    "/favicon.ico",
+    "./static/js/2.37a28cfc.chunk.js",
+    "./static/js/main.fd13b631.chunk.js",
+    "./static/js/0.chunk.js",
+    "./favicon.ico",
+    "./manifest.json",
     "index.html",
     "/"
 ];
